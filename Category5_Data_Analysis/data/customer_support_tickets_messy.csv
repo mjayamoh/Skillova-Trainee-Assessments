@@ -1,0 +1,1001 @@
+Ticket_ID,Category,Resolution_Time_Hours
+TKT-0001,Billing,26.44
+TKT-0002,Billing,7.0
+TKT-0003,General Inquiry,3.38
+TKT-0004,Technical,23.79
+TKT-0005,Technical,45.92
+TKT-0006,Account Access,2.73
+TKT-0007,Account Access,12.48
+TKT-0008,Billing,24.6
+TKT-0009,Technical,15.02
+TKT-0010,General Inquiry,12.79
+TKT-0011,Billing,7.79
+TKT-0012,Product Issue,71.53
+TKT-0013,Billing,12.58
+TKT-0014,Technical,41.3
+TKT-0015,Technical,
+TKT-0016,Product Issue,30.84
+TKT-0017,Billing,10.93
+TKT-0018,Billing,
+TKT-0019,Product Issue,24.07
+TKT-0020,Billing,8.39
+TKT-0021,Technical,32.06
+TKT-0022,Product Issue,20.5
+TKT-0023,Technical,28.94
+TKT-0024,Product Issue,32.13
+TKT-0025,Account Access,12.93
+TKT-0026,Billing,10.99
+TKT-0027,Account Access,5.95
+TKT-0028,Technical,6.02
+TKT-0029,Technical,23.51
+TKT-0030,General Inquiry,8.4
+TKT-0031,Account Access,3.46
+TKT-0032,Technical,32.13
+TKT-0033,Account Access,5.4
+TKT-0034,Billing,17.78
+TKT-0035,Product Issue,15.48
+TKT-0036,Technical,41.2
+TKT-0037,General Inquiry,1.48
+TKT-0038,Technical,24.57
+TKT-0039,Billing,4.04
+TKT-0040,Account Access,11.17
+TKT-0041,General Inquiry,12.33
+TKT-0042,Account Access,4.21
+TKT-0043,Billing,11.64
+TKT-0044,Product Issue,47.77
+TKT-0045,Billing,9.96
+TKT-0046,Billing,9.58
+TKT-0047,Technical,22.82
+TKT-0048,Billing,6.18
+TKT-0049,Technical,9.77
+TKT-0050,General Inquiry,7.73
+TKT-0051,Billing,999999.0
+TKT-0052,Technical,25.79
+TKT-0053,Billing,7.8
+TKT-0054,Billing,13.37
+TKT-0055,Technical,39.78
+TKT-0056,Billing,10.82
+TKT-0057,Account Access,3.57
+TKT-0058,Account Access,12.95
+TKT-0059,Billing,
+TKT-0060,Billing,12.7
+TKT-0061,Technical,42.75
+TKT-0062,Technical,54.29
+TKT-0063,Product Issue,9.89
+TKT-0064,Technical,43.74
+TKT-0065,General Inquiry,10.53
+TKT-0066,Account Access,16.93
+TKT-0067,Account Access,13.92
+TKT-0068,Billing,
+TKT-0069,Product Issue,22.59
+TKT-0070,General Inquiry,
+TKT-0071,Product Issue,16.42
+TKT-0072,Billing,12.33
+TKT-0073,General Inquiry,10.44
+TKT-0074,Technical,26.05
+TKT-0075,General Inquiry,5.56
+TKT-0076,Billing,25.51
+TKT-0077,Product Issue,36.73
+TKT-0078,Product Issue,21.14
+TKT-0079,Account Access,9.86
+TKT-0080,Product Issue,23.19
+TKT-0081,Technical,24.14
+TKT-0082,Technical,32.23
+TKT-0083,Billing,7.27
+TKT-0084,General Inquiry,4.94
+TKT-0085,General Inquiry,4.69
+TKT-0086,Technical,
+TKT-0087,Billing,9.57
+TKT-0088,Technical,42.02
+TKT-0089,Billing,14.0
+TKT-0090,Account Access,10.74
+TKT-0091,Technical,31.88
+TKT-0092,Billing,4.75
+TKT-0093,Billing,11.53
+TKT-0094,Account Access,8.52
+TKT-0095,Account Access,12.04
+TKT-0096,Billing,27.52
+TKT-0097,Account Access,3.08
+TKT-0098,Technical,12.68
+TKT-0099,Account Access,7.94
+TKT-0100,Technical,17.97
+TKT-0101,Account Access,999999.0
+TKT-0102,Billing,9.35
+TKT-0103,Billing,26.66
+TKT-0104,Account Access,3.68
+TKT-0105,General Inquiry,18.21
+TKT-0106,Account Access,13.11
+TKT-0107,Product Issue,44.33
+TKT-0108,General Inquiry,10.06
+TKT-0109,Product Issue,
+TKT-0110,Technical,24.86
+TKT-0111,General Inquiry,2.41
+TKT-0112,Billing,20.53
+TKT-0113,Technical,16.9
+TKT-0114,Product Issue,22.09
+TKT-0115,Technical,
+TKT-0116,Product Issue,9.85
+TKT-0117,Product Issue,18.9
+TKT-0118,Account Access,8.79
+TKT-0119,Product Issue,38.7
+TKT-0120,Account Access,2.8
+TKT-0121,Billing,9.12
+TKT-0122,Account Access,3.58
+TKT-0123,Product Issue,
+TKT-0124,Product Issue,29.5
+TKT-0125,General Inquiry,2.17
+TKT-0126,Technical,11.74
+TKT-0127,Product Issue,26.12
+TKT-0128,General Inquiry,2.78
+TKT-0129,Product Issue,40.97
+TKT-0130,Billing,31.7
+TKT-0131,Technical,43.45
+TKT-0132,Product Issue,20.98
+TKT-0133,Account Access,5.67
+TKT-0134,Billing,11.64
+TKT-0135,Technical,18.05
+TKT-0136,Technical,48.23
+TKT-0137,Technical,11.94
+TKT-0138,Billing,11.34
+TKT-0139,Product Issue,31.55
+TKT-0140,Product Issue,36.73
+TKT-0141,Account Access,13.06
+TKT-0142,Billing,10.12
+TKT-0143,General Inquiry,2.87
+TKT-0144,Product Issue,20.3
+TKT-0145,Account Access,7.36
+TKT-0146,Billing,18.18
+TKT-0147,Product Issue,15.06
+TKT-0148,Account Access,2.76
+TKT-0149,Product Issue,15.73
+TKT-0150,General Inquiry,2.05
+TKT-0151,Product Issue,39.77
+TKT-0152,Product Issue,15.65
+TKT-0153,Product Issue,
+TKT-0154,Account Access,11.94
+TKT-0155,Billing,10.17
+TKT-0156,Technical,29.04
+TKT-0157,Technical,23.44
+TKT-0158,Product Issue,27.67
+TKT-0159,Technical,9.0
+TKT-0160,General Inquiry,1.08
+TKT-0161,Billing,1.17
+TKT-0162,Billing,6.6
+TKT-0163,Technical,28.92
+TKT-0164,Technical,56.76
+TKT-0165,General Inquiry,3.81
+TKT-0166,General Inquiry,5.47
+TKT-0167,Billing,23.77
+TKT-0168,Product Issue,38.87
+TKT-0169,General Inquiry,3.63
+TKT-0170,Technical,53.49
+TKT-0171,Product Issue,21.74
+TKT-0172,Product Issue,22.34
+TKT-0173,General Inquiry,11.87
+TKT-0174,Product Issue,35.4
+TKT-0175,Account Access,4.99
+TKT-0176,Billing,22.41
+TKT-0177,Technical,20.67
+TKT-0178,Technical,22.02
+TKT-0179,Account Access,16.69
+TKT-0180,Product Issue,5.88
+TKT-0181,General Inquiry,3.12
+TKT-0182,Billing,17.59
+TKT-0183,Product Issue,27.41
+TKT-0184,Account Access,10.44
+TKT-0185,Product Issue,11.88
+TKT-0186,Product Issue,25.25
+TKT-0187,Account Access,5.35
+TKT-0188,General Inquiry,5.58
+TKT-0189,Technical,11.94
+TKT-0190,Account Access,6.76
+TKT-0191,Technical,34.98
+TKT-0192,Billing,11.31
+TKT-0193,Product Issue,23.71
+TKT-0194,Billing,8.85
+TKT-0195,Product Issue,18.42
+TKT-0196,Billing,4.12
+TKT-0197,Billing,9.38
+TKT-0198,Technical,20.48
+TKT-0199,Product Issue,40.01
+TKT-0200,Technical,19.93
+TKT-0201,Technical,17.57
+TKT-0202,Account Access,8.13
+TKT-0203,Billing,17.23
+TKT-0204,Product Issue,15.06
+TKT-0205,General Inquiry,4.13
+TKT-0206,Product Issue,5.73
+TKT-0207,Billing,9.43
+TKT-0208,Billing,11.39
+TKT-0209,Account Access,3.25
+TKT-0210,Technical,37.76
+TKT-0211,Billing,22.47
+TKT-0212,Technical,35.75
+TKT-0213,Technical,30.48
+TKT-0214,Product Issue,999999.0
+TKT-0215,Product Issue,33.9
+TKT-0216,Technical,37.2
+TKT-0217,General Inquiry,4.78
+TKT-0218,General Inquiry,7.16
+TKT-0219,Product Issue,31.52
+TKT-0220,Technical,29.39
+TKT-0221,Technical,10.6
+TKT-0222,Technical,50.88
+TKT-0223,Product Issue,19.83
+TKT-0224,Product Issue,23.62
+TKT-0225,Account Access,7.5
+TKT-0226,Account Access,4.67
+TKT-0227,Technical,20.37
+TKT-0228,Product Issue,9.19
+TKT-0229,Billing,
+TKT-0230,General Inquiry,3.65
+TKT-0231,Technical,54.85
+TKT-0232,General Inquiry,1.46
+TKT-0233,Product Issue,21.3
+TKT-0234,Billing,10.8
+TKT-0235,Product Issue,28.06
+TKT-0236,Technical,26.8
+TKT-0237,Technical,69.18
+TKT-0238,Technical,41.47
+TKT-0239,Technical,12.7
+TKT-0240,Billing,14.77
+TKT-0241,Technical,17.24
+TKT-0242,Billing,22.58
+TKT-0243,General Inquiry,4.61
+TKT-0244,Technical,34.07
+TKT-0245,Technical,15.25
+TKT-0246,Technical,19.44
+TKT-0247,Billing,20.51
+TKT-0248,Product Issue,9.99
+TKT-0249,General Inquiry,2.7
+TKT-0250,Technical,26.26
+TKT-0251,General Inquiry,2.22
+TKT-0252,Product Issue,9.18
+TKT-0253,Billing,6.41
+TKT-0254,Product Issue,20.99
+TKT-0255,Account Access,6.17
+TKT-0256,Product Issue,17.91
+TKT-0257,Technical,13.35
+TKT-0258,Technical,42.97
+TKT-0259,Billing,17.16
+TKT-0260,Technical,5.07
+TKT-0261,Billing,30.12
+TKT-0262,Account Access,8.27
+TKT-0263,Billing,12.97
+TKT-0264,General Inquiry,8.86
+TKT-0265,Account Access,12.43
+TKT-0266,Technical,41.13
+TKT-0267,Account Access,1.9
+TKT-0268,Billing,2.69
+TKT-0269,Billing,30.32
+TKT-0270,Technical,22.83
+TKT-0271,Account Access,5.03
+TKT-0272,General Inquiry,8.24
+TKT-0273,Product Issue,25.43
+TKT-0274,Technical,12.92
+TKT-0275,Billing,32.14
+TKT-0276,Billing,20.37
+TKT-0277,Billing,21.54
+TKT-0278,Technical,18.6
+TKT-0279,General Inquiry,1.76
+TKT-0280,Product Issue,5.25
+TKT-0281,Account Access,12.67
+TKT-0282,Technical,23.87
+TKT-0283,Product Issue,
+TKT-0284,Product Issue,
+TKT-0285,Technical,17.97
+TKT-0286,Billing,4.27
+TKT-0287,Product Issue,24.01
+TKT-0288,Account Access,2.78
+TKT-0289,Technical,29.86
+TKT-0290,Account Access,2.8
+TKT-0291,Product Issue,
+TKT-0292,Technical,43.97
+TKT-0293,General Inquiry,9.06
+TKT-0294,Product Issue,13.11
+TKT-0295,Technical,52.14
+TKT-0296,Account Access,6.53
+TKT-0297,Product Issue,33.43
+TKT-0298,Account Access,4.14
+TKT-0299,Product Issue,19.0
+TKT-0300,Product Issue,22.37
+TKT-0301,Technical,46.45
+TKT-0302,Billing,23.55
+TKT-0303,Account Access,4.0
+TKT-0304,Technical,39.56
+TKT-0305,Product Issue,40.46
+TKT-0306,Technical,28.22
+TKT-0307,Product Issue,46.9
+TKT-0308,Billing,7.63
+TKT-0309,Technical,26.48
+TKT-0310,Billing,14.92
+TKT-0311,Technical,16.81
+TKT-0312,Billing,10.06
+TKT-0313,Billing,15.65
+TKT-0314,Billing,
+TKT-0315,Product Issue,17.09
+TKT-0316,Account Access,3.9
+TKT-0317,Technical,34.26
+TKT-0318,Technical,30.14
+TKT-0319,Billing,18.74
+TKT-0320,Billing,18.05
+TKT-0321,Account Access,2.22
+TKT-0322,General Inquiry,6.27
+TKT-0323,Technical,48.29
+TKT-0324,Product Issue,34.57
+TKT-0325,Technical,16.2
+TKT-0326,General Inquiry,1.22
+TKT-0327,Account Access,7.68
+TKT-0328,Account Access,2.73
+TKT-0329,General Inquiry,0.71
+TKT-0330,Account Access,4.66
+TKT-0331,Product Issue,48.22
+TKT-0332,Product Issue,13.42
+TKT-0333,General Inquiry,3.61
+TKT-0334,Product Issue,16.51
+TKT-0335,Technical,25.4
+TKT-0336,Product Issue,42.69
+TKT-0337,Product Issue,26.43
+TKT-0338,General Inquiry,3.04
+TKT-0339,Technical,28.85
+TKT-0340,Technical,22.94
+TKT-0341,Billing,3.44
+TKT-0342,Technical,22.05
+TKT-0343,Technical,14.48
+TKT-0344,Product Issue,9.37
+TKT-0345,Product Issue,9.61
+TKT-0346,Product Issue,8.1
+TKT-0347,Technical,27.57
+TKT-0348,Billing,
+TKT-0349,Technical,19.69
+TKT-0350,Billing,14.42
+TKT-0351,Account Access,5.27
+TKT-0352,Account Access,3.76
+TKT-0353,General Inquiry,4.05
+TKT-0354,Product Issue,22.49
+TKT-0355,Technical,17.49
+TKT-0356,Account Access,6.21
+TKT-0357,Technical,30.34
+TKT-0358,Technical,
+TKT-0359,Billing,11.69
+TKT-0360,Technical,17.53
+TKT-0361,Technical,35.3
+TKT-0362,Account Access,4.48
+TKT-0363,Account Access,13.82
+TKT-0364,Billing,
+TKT-0365,Billing,28.67
+TKT-0366,Account Access,11.15
+TKT-0367,Billing,21.43
+TKT-0368,General Inquiry,10.69
+TKT-0369,Technical,
+TKT-0370,Billing,20.93
+TKT-0371,Technical,42.47
+TKT-0372,Technical,55.57
+TKT-0373,Billing,9.95
+TKT-0374,Billing,11.4
+TKT-0375,Technical,31.56
+TKT-0376,Technical,12.35
+TKT-0377,Product Issue,23.77
+TKT-0378,Technical,16.52
+TKT-0379,Account Access,6.23
+TKT-0380,Technical,24.79
+TKT-0381,General Inquiry,1.32
+TKT-0382,Billing,12.32
+TKT-0383,Product Issue,17.11
+TKT-0384,General Inquiry,9.5
+TKT-0385,Account Access,6.98
+TKT-0386,Account Access,6.73
+TKT-0387,Product Issue,35.91
+TKT-0388,General Inquiry,1.29
+TKT-0389,Product Issue,37.93
+TKT-0390,Product Issue,55.28
+TKT-0391,Product Issue,5.17
+TKT-0392,Product Issue,10.41
+TKT-0393,Technical,35.32
+TKT-0394,Account Access,6.91
+TKT-0395,Technical,14.19
+TKT-0396,Billing,24.31
+TKT-0397,Technical,24.37
+TKT-0398,Technical,43.15
+TKT-0399,Technical,24.48
+TKT-0400,Billing,9.26
+TKT-0401,Product Issue,999999.0
+TKT-0402,Account Access,5.27
+TKT-0403,Billing,999999.0
+TKT-0404,Product Issue,
+TKT-0405,Account Access,5.69
+TKT-0406,Product Issue,16.32
+TKT-0407,Technical,8.29
+TKT-0408,General Inquiry,5.53
+TKT-0409,Technical,
+TKT-0410,Product Issue,26.49
+TKT-0411,Technical,23.66
+TKT-0412,General Inquiry,0.9
+TKT-0413,Technical,29.06
+TKT-0414,Billing,3.89
+TKT-0415,Technical,37.09
+TKT-0416,Product Issue,4.57
+TKT-0417,Billing,28.85
+TKT-0418,Billing,4.99
+TKT-0419,Product Issue,22.69
+TKT-0420,Technical,9.55
+TKT-0421,Product Issue,24.96
+TKT-0422,Billing,19.18
+TKT-0423,General Inquiry,4.92
+TKT-0424,Product Issue,37.54
+TKT-0425,General Inquiry,5.43
+TKT-0426,Technical,32.76
+TKT-0427,Billing,20.53
+TKT-0428,Product Issue,22.9
+TKT-0429,Technical,13.79
+TKT-0430,Account Access,9.3
+TKT-0431,Account Access,10.69
+TKT-0432,General Inquiry,2.16
+TKT-0433,Account Access,3.84
+TKT-0434,Technical,51.26
+TKT-0435,Technical,27.12
+TKT-0436,Product Issue,38.58
+TKT-0437,Technical,15.82
+TKT-0438,Product Issue,20.13
+TKT-0439,Technical,32.56
+TKT-0440,Technical,7.81
+TKT-0441,Billing,7.07
+TKT-0442,Technical,14.12
+TKT-0443,General Inquiry,
+TKT-0444,Technical,12.19
+TKT-0445,Billing,
+TKT-0446,Technical,
+TKT-0447,Technical,25.65
+TKT-0448,Technical,65.33
+TKT-0449,General Inquiry,4.43
+TKT-0450,Billing,13.72
+TKT-0451,Product Issue,6.05
+TKT-0452,Account Access,6.85
+TKT-0453,Account Access,7.1
+TKT-0454,General Inquiry,3.41
+TKT-0455,Product Issue,25.77
+TKT-0456,Technical,32.5
+TKT-0457,Account Access,12.6
+TKT-0458,Technical,16.64
+TKT-0459,Billing,14.39
+TKT-0460,Account Access,4.98
+TKT-0461,General Inquiry,6.79
+TKT-0462,Product Issue,17.93
+TKT-0463,Billing,5.3
+TKT-0464,Technical,29.02
+TKT-0465,Technical,32.04
+TKT-0466,Account Access,4.04
+TKT-0467,Billing,20.35
+TKT-0468,Billing,6.58
+TKT-0469,Technical,28.5
+TKT-0470,General Inquiry,4.19
+TKT-0471,Billing,12.74
+TKT-0472,Product Issue,15.47
+TKT-0473,General Inquiry,3.59
+TKT-0474,Billing,13.73
+TKT-0475,General Inquiry,21.06
+TKT-0476,Technical,20.29
+TKT-0477,Billing,8.83
+TKT-0478,Product Issue,22.02
+TKT-0479,Technical,21.32
+TKT-0480,Technical,43.35
+TKT-0481,General Inquiry,4.09
+TKT-0482,Product Issue,17.6
+TKT-0483,Billing,9.8
+TKT-0484,Technical,42.86
+TKT-0485,Account Access,12.62
+TKT-0486,Product Issue,18.07
+TKT-0487,Account Access,7.03
+TKT-0488,Account Access,6.08
+TKT-0489,Product Issue,22.57
+TKT-0490,General Inquiry,2.77
+TKT-0491,Billing,22.78
+TKT-0492,General Inquiry,
+TKT-0493,Billing,13.96
+TKT-0494,General Inquiry,2.58
+TKT-0495,Technical,39.08
+TKT-0496,Technical,37.85
+TKT-0497,Technical,43.25
+TKT-0498,General Inquiry,999999.0
+TKT-0499,Technical,23.78
+TKT-0500,Billing,8.76
+TKT-0501,Product Issue,21.87
+TKT-0502,Technical,12.6
+TKT-0503,Technical,13.63
+TKT-0504,Billing,24.87
+TKT-0505,Account Access,9.85
+TKT-0506,Technical,13.81
+TKT-0507,Billing,12.25
+TKT-0508,Product Issue,24.75
+TKT-0509,Account Access,9.97
+TKT-0510,Product Issue,17.59
+TKT-0511,Technical,23.11
+TKT-0512,Billing,17.38
+TKT-0513,Billing,13.22
+TKT-0514,Technical,36.86
+TKT-0515,Technical,33.4
+TKT-0516,Billing,13.38
+TKT-0517,Technical,21.77
+TKT-0518,Billing,13.74
+TKT-0519,Account Access,7.02
+TKT-0520,Billing,9.2
+TKT-0521,Product Issue,
+TKT-0522,Billing,15.28
+TKT-0523,Billing,6.19
+TKT-0524,Product Issue,7.54
+TKT-0525,General Inquiry,1.29
+TKT-0526,Technical,15.21
+TKT-0527,General Inquiry,8.03
+TKT-0528,General Inquiry,2.01
+TKT-0529,General Inquiry,2.48
+TKT-0530,Product Issue,7.13
+TKT-0531,Product Issue,19.7
+TKT-0532,Technical,13.5
+TKT-0533,Account Access,10.63
+TKT-0534,Technical,49.85
+TKT-0535,Product Issue,9.54
+TKT-0536,Technical,72.0
+TKT-0537,Billing,3.71
+TKT-0538,Technical,25.93
+TKT-0539,Billing,16.08
+TKT-0540,General Inquiry,6.78
+TKT-0541,Product Issue,18.57
+TKT-0542,Product Issue,18.32
+TKT-0543,Account Access,
+TKT-0544,Account Access,3.88
+TKT-0545,Product Issue,37.0
+TKT-0546,Account Access,15.07
+TKT-0547,Billing,16.62
+TKT-0548,General Inquiry,7.99
+TKT-0549,Technical,13.52
+TKT-0550,Account Access,12.78
+TKT-0551,General Inquiry,4.98
+TKT-0552,Product Issue,12.24
+TKT-0553,Account Access,6.14
+TKT-0554,Technical,
+TKT-0555,Technical,37.36
+TKT-0556,Account Access,10.85
+TKT-0557,Account Access,5.08
+TKT-0558,Billing,15.21
+TKT-0559,General Inquiry,4.85
+TKT-0560,Technical,11.21
+TKT-0561,Account Access,2.81
+TKT-0562,General Inquiry,4.2
+TKT-0563,Billing,11.19
+TKT-0564,General Inquiry,3.21
+TKT-0565,Technical,20.27
+TKT-0566,General Inquiry,3.89
+TKT-0567,Product Issue,13.0
+TKT-0568,Billing,11.19
+TKT-0569,Product Issue,28.18
+TKT-0570,General Inquiry,5.64
+TKT-0571,Technical,18.08
+TKT-0572,Product Issue,29.86
+TKT-0573,Technical,42.07
+TKT-0574,Account Access,3.94
+TKT-0575,General Inquiry,6.42
+TKT-0576,General Inquiry,4.21
+TKT-0577,Product Issue,15.33
+TKT-0578,Technical,24.99
+TKT-0579,Product Issue,23.95
+TKT-0580,Billing,9.3
+TKT-0581,General Inquiry,2.45
+TKT-0582,Technical,29.56
+TKT-0583,Account Access,11.38
+TKT-0584,General Inquiry,2.08
+TKT-0585,General Inquiry,10.68
+TKT-0586,Account Access,10.54
+TKT-0587,Account Access,6.33
+TKT-0588,Billing,6.79
+TKT-0589,Account Access,10.07
+TKT-0590,General Inquiry,4.19
+TKT-0591,Account Access,11.31
+TKT-0592,Account Access,5.79
+TKT-0593,Account Access,7.98
+TKT-0594,General Inquiry,
+TKT-0595,Billing,6.47
+TKT-0596,Account Access,8.1
+TKT-0597,Billing,15.73
+TKT-0598,Technical,21.28
+TKT-0599,Product Issue,999999.0
+TKT-0600,General Inquiry,4.17
+TKT-0601,Technical,18.5
+TKT-0602,Billing,9.84
+TKT-0603,Billing,19.15
+TKT-0604,General Inquiry,6.34
+TKT-0605,Product Issue,21.29
+TKT-0606,Product Issue,17.29
+TKT-0607,Product Issue,19.4
+TKT-0608,Product Issue,17.17
+TKT-0609,Product Issue,11.35
+TKT-0610,General Inquiry,1.54
+TKT-0611,Account Access,17.77
+TKT-0612,Technical,47.75
+TKT-0613,Product Issue,33.4
+TKT-0614,Technical,32.25
+TKT-0615,Billing,17.24
+TKT-0616,Technical,21.31
+TKT-0617,Technical,19.85
+TKT-0618,Technical,42.12
+TKT-0619,Account Access,5.92
+TKT-0620,General Inquiry,3.08
+TKT-0621,Technical,22.86
+TKT-0622,Billing,15.21
+TKT-0623,Product Issue,23.28
+TKT-0624,Technical,22.82
+TKT-0625,Billing,16.17
+TKT-0626,Billing,9.18
+TKT-0627,Billing,14.31
+TKT-0628,Technical,27.16
+TKT-0629,Billing,17.38
+TKT-0630,Product Issue,9.21
+TKT-0631,General Inquiry,
+TKT-0632,Technical,17.63
+TKT-0633,Account Access,9.76
+TKT-0634,Technical,26.45
+TKT-0635,Product Issue,16.37
+TKT-0636,Account Access,12.26
+TKT-0637,Product Issue,10.92
+TKT-0638,Technical,23.92
+TKT-0639,Technical,30.59
+TKT-0640,General Inquiry,5.32
+TKT-0641,Product Issue,
+TKT-0642,Technical,31.82
+TKT-0643,Billing,15.81
+TKT-0644,Product Issue,19.88
+TKT-0645,Account Access,17.28
+TKT-0646,Account Access,
+TKT-0647,Product Issue,7.45
+TKT-0648,Technical,51.34
+TKT-0649,Product Issue,17.7
+TKT-0650,Billing,10.26
+TKT-0651,Account Access,19.46
+TKT-0652,Product Issue,14.68
+TKT-0653,Product Issue,7.17
+TKT-0654,Technical,44.96
+TKT-0655,Billing,43.07
+TKT-0656,Technical,59.44
+TKT-0657,General Inquiry,6.24
+TKT-0658,Account Access,4.83
+TKT-0659,Product Issue,48.84
+TKT-0660,Product Issue,10.35
+TKT-0661,Account Access,8.62
+TKT-0662,Technical,8.67
+TKT-0663,Product Issue,38.07
+TKT-0664,Billing,19.82
+TKT-0665,Billing,24.16
+TKT-0666,Account Access,2.51
+TKT-0667,Product Issue,16.49
+TKT-0668,Technical,27.9
+TKT-0669,Product Issue,19.43
+TKT-0670,Technical,23.57
+TKT-0671,Technical,36.66
+TKT-0672,Product Issue,7.53
+TKT-0673,Product Issue,38.64
+TKT-0674,Account Access,8.58
+TKT-0675,Technical,11.25
+TKT-0676,General Inquiry,2.95
+TKT-0677,Account Access,15.36
+TKT-0678,Product Issue,16.37
+TKT-0679,General Inquiry,6.27
+TKT-0680,Billing,27.6
+TKT-0681,Technical,20.89
+TKT-0682,Billing,12.7
+TKT-0683,Technical,999999.0
+TKT-0684,Technical,36.44
+TKT-0685,Product Issue,7.4
+TKT-0686,Billing,21.46
+TKT-0687,Product Issue,19.64
+TKT-0688,Product Issue,22.62
+TKT-0689,Billing,5.87
+TKT-0690,Technical,17.52
+TKT-0691,Product Issue,23.72
+TKT-0692,General Inquiry,2.74
+TKT-0693,Product Issue,9.39
+TKT-0694,Account Access,13.41
+TKT-0695,Technical,28.19
+TKT-0696,Product Issue,16.78
+TKT-0697,Account Access,3.72
+TKT-0698,Billing,3.95
+TKT-0699,Product Issue,24.79
+TKT-0700,Product Issue,17.74
+TKT-0701,Technical,48.57
+TKT-0702,Billing,4.69
+TKT-0703,Technical,52.47
+TKT-0704,Product Issue,8.22
+TKT-0705,General Inquiry,3.2
+TKT-0706,Technical,11.98
+TKT-0707,Account Access,6.61
+TKT-0708,Technical,16.61
+TKT-0709,Product Issue,15.19
+TKT-0710,Technical,25.92
+TKT-0711,Technical,32.75
+TKT-0712,Account Access,2.5
+TKT-0713,Technical,17.82
+TKT-0714,Account Access,7.29
+TKT-0715,General Inquiry,6.12
+TKT-0716,General Inquiry,4.69
+TKT-0717,Product Issue,21.43
+TKT-0718,Product Issue,17.76
+TKT-0719,Product Issue,5.01
+TKT-0720,Technical,43.37
+TKT-0721,Technical,10.3
+TKT-0722,General Inquiry,
+TKT-0723,Product Issue,
+TKT-0724,Product Issue,18.83
+TKT-0725,Account Access,1.94
+TKT-0726,Account Access,10.57
+TKT-0727,Product Issue,4.66
+TKT-0728,Technical,35.6
+TKT-0729,Billing,6.7
+TKT-0730,Billing,13.85
+TKT-0731,Technical,42.29
+TKT-0732,Product Issue,12.7
+TKT-0733,General Inquiry,
+TKT-0734,Technical,23.01
+TKT-0735,Product Issue,38.37
+TKT-0736,Technical,33.3
+TKT-0737,General Inquiry,4.78
+TKT-0738,Technical,26.14
+TKT-0739,Product Issue,50.37
+TKT-0740,General Inquiry,4.34
+TKT-0741,General Inquiry,2.12
+TKT-0742,Technical,
+TKT-0743,Account Access,10.81
+TKT-0744,General Inquiry,6.4
+TKT-0745,Technical,26.51
+TKT-0746,General Inquiry,5.34
+TKT-0747,Technical,17.55
+TKT-0748,General Inquiry,3.84
+TKT-0749,Product Issue,21.15
+TKT-0750,Account Access,10.67
+TKT-0751,General Inquiry,6.69
+TKT-0752,Technical,21.73
+TKT-0753,Product Issue,20.72
+TKT-0754,Product Issue,21.47
+TKT-0755,General Inquiry,3.84
+TKT-0756,Technical,4.17
+TKT-0757,Technical,
+TKT-0758,Billing,6.4
+TKT-0759,Billing,14.95
+TKT-0760,Product Issue,33.17
+TKT-0761,General Inquiry,6.44
+TKT-0762,Technical,17.34
+TKT-0763,Product Issue,40.42
+TKT-0764,Technical,30.87
+TKT-0765,Account Access,9.24
+TKT-0766,General Inquiry,2.6
+TKT-0767,Product Issue,20.37
+TKT-0768,Billing,14.23
+TKT-0769,Billing,20.66
+TKT-0770,Technical,44.39
+TKT-0771,Account Access,10.25
+TKT-0772,Product Issue,18.75
+TKT-0773,Billing,13.07
+TKT-0774,General Inquiry,7.77
+TKT-0775,Technical,22.99
+TKT-0776,Account Access,4.91
+TKT-0777,Billing,11.03
+TKT-0778,Billing,9.66
+TKT-0779,Billing,5.67
+TKT-0780,General Inquiry,1.05
+TKT-0781,Product Issue,25.09
+TKT-0782,Technical,38.23
+TKT-0783,Account Access,17.29
+TKT-0784,Billing,27.49
+TKT-0785,Technical,48.84
+TKT-0786,Technical,22.24
+TKT-0787,Technical,21.79
+TKT-0788,Account Access,11.18
+TKT-0789,Technical,26.9
+TKT-0790,Technical,35.51
+TKT-0791,Technical,28.79
+TKT-0792,Technical,47.38
+TKT-0793,Technical,29.84
+TKT-0794,Product Issue,16.62
+TKT-0795,Account Access,2.51
+TKT-0796,Account Access,10.75
+TKT-0797,Technical,37.09
+TKT-0798,Account Access,8.86
+TKT-0799,Account Access,7.67
+TKT-0800,Technical,13.06
+TKT-0801,Billing,8.1
+TKT-0802,Billing,3.3
+TKT-0803,Billing,15.6
+TKT-0804,Technical,24.1
+TKT-0805,Technical,43.72
+TKT-0806,General Inquiry,2.13
+TKT-0807,Account Access,6.19
+TKT-0808,Account Access,8.65
+TKT-0809,Technical,17.0
+TKT-0810,Billing,8.59
+TKT-0811,Billing,17.55
+TKT-0812,Billing,12.59
+TKT-0813,Technical,45.89
+TKT-0814,Billing,7.5
+TKT-0815,Product Issue,33.73
+TKT-0816,General Inquiry,999999.0
+TKT-0817,Account Access,6.73
+TKT-0818,Product Issue,16.25
+TKT-0819,Product Issue,17.32
+TKT-0820,Product Issue,9.94
+TKT-0821,Billing,16.78
+TKT-0822,General Inquiry,5.02
+TKT-0823,Billing,5.01
+TKT-0824,Technical,37.78
+TKT-0825,Account Access,4.2
+TKT-0826,Billing,9.05
+TKT-0827,Billing,53.69
+TKT-0828,Product Issue,30.66
+TKT-0829,General Inquiry,2.78
+TKT-0830,Account Access,5.88
+TKT-0831,Account Access,5.2
+TKT-0832,Product Issue,32.2
+TKT-0833,General Inquiry,4.08
+TKT-0834,General Inquiry,2.09
+TKT-0835,Billing,18.89
+TKT-0836,Account Access,6.72
+TKT-0837,General Inquiry,4.8
+TKT-0838,Technical,18.28
+TKT-0839,Account Access,10.1
+TKT-0840,Technical,71.27
+TKT-0841,Product Issue,23.77
+TKT-0842,Billing,10.22
+TKT-0843,Account Access,11.25
+TKT-0844,Billing,12.55
+TKT-0845,Account Access,10.91
+TKT-0846,Billing,15.61
+TKT-0847,Product Issue,11.66
+TKT-0848,Product Issue,25.89
+TKT-0849,Product Issue,12.41
+TKT-0850,Technical,15.72
+TKT-0851,Technical,39.34
+TKT-0852,General Inquiry,2.43
+TKT-0853,Product Issue,26.45
+TKT-0854,Technical,60.09
+TKT-0855,Technical,19.9
+TKT-0856,Technical,17.92
+TKT-0857,Product Issue,13.2
+TKT-0858,Account Access,9.1
+TKT-0859,General Inquiry,1.59
+TKT-0860,Account Access,6.49
+TKT-0861,Technical,55.57
+TKT-0862,Technical,18.82
+TKT-0863,Billing,8.2
+TKT-0864,Account Access,8.01
+TKT-0865,Technical,33.1
+TKT-0866,Technical,64.99
+TKT-0867,Technical,32.69
+TKT-0868,Billing,18.16
+TKT-0869,Account Access,5.93
+TKT-0870,General Inquiry,4.36
+TKT-0871,Product Issue,35.24
+TKT-0872,Technical,69.75
+TKT-0873,Account Access,11.02
+TKT-0874,Technical,26.4
+TKT-0875,Account Access,16.83
+TKT-0876,Product Issue,16.47
+TKT-0877,Technical,23.17
+TKT-0878,Product Issue,46.93
+TKT-0879,Product Issue,24.47
+TKT-0880,Product Issue,37.63
+TKT-0881,Product Issue,18.09
+TKT-0882,Account Access,7.38
+TKT-0883,Billing,20.67
+TKT-0884,Product Issue,28.0
+TKT-0885,Billing,4.74
+TKT-0886,General Inquiry,
+TKT-0887,Product Issue,24.41
+TKT-0888,Billing,10.69
+TKT-0889,Account Access,3.81
+TKT-0890,Billing,4.41
+TKT-0891,Technical,39.63
+TKT-0892,Billing,9.5
+TKT-0893,Technical,16.5
+TKT-0894,General Inquiry,8.43
+TKT-0895,General Inquiry,12.25
+TKT-0896,Technical,19.21
+TKT-0897,General Inquiry,9.47
+TKT-0898,Technical,26.07
+TKT-0899,Product Issue,15.28
+TKT-0900,General Inquiry,4.76
+TKT-0901,Product Issue,24.91
+TKT-0902,Technical,32.05
+TKT-0903,Technical,55.76
+TKT-0904,Technical,30.76
+TKT-0905,Account Access,11.73
+TKT-0906,General Inquiry,5.9
+TKT-0907,Billing,21.73
+TKT-0908,Technical,17.69
+TKT-0909,Technical,19.7
+TKT-0910,Product Issue,14.84
+TKT-0911,Technical,43.34
+TKT-0912,Billing,26.21
+TKT-0913,Product Issue,26.54
+TKT-0914,Billing,11.35
+TKT-0915,Technical,39.96
+TKT-0916,Billing,5.99
+TKT-0917,General Inquiry,4.48
+TKT-0918,General Inquiry,4.92
+TKT-0919,Billing,8.28
+TKT-0920,Billing,13.18
+TKT-0921,General Inquiry,0.79
+TKT-0922,Billing,10.13
+TKT-0923,Technical,12.88
+TKT-0924,Technical,37.55
+TKT-0925,Billing,11.82
+TKT-0926,Technical,24.22
+TKT-0927,General Inquiry,4.26
+TKT-0928,Technical,45.12
+TKT-0929,Technical,24.12
+TKT-0930,Technical,27.83
+TKT-0931,Billing,8.72
+TKT-0932,Account Access,4.07
+TKT-0933,Billing,12.59
+TKT-0934,Technical,32.97
+TKT-0935,Technical,4.57
+TKT-0936,Technical,19.8
+TKT-0937,Account Access,3.27
+TKT-0938,General Inquiry,3.42
+TKT-0939,Product Issue,7.35
+TKT-0940,Product Issue,13.02
+TKT-0941,Technical,31.82
+TKT-0942,Product Issue,14.6
+TKT-0943,Account Access,5.08
+TKT-0944,Billing,
+TKT-0945,Product Issue,12.56
+TKT-0946,General Inquiry,4.72
+TKT-0947,Technical,45.89
+TKT-0948,Product Issue,12.91
+TKT-0949,Billing,21.75
+TKT-0950,General Inquiry,2.64
+TKT-0951,Account Access,6.08
+TKT-0952,Technical,
+TKT-0953,Technical,23.6
+TKT-0954,Technical,999999.0
+TKT-0955,General Inquiry,4.62
+TKT-0956,Billing,23.33
+TKT-0957,Billing,11.18
+TKT-0958,Billing,7.44
+TKT-0959,General Inquiry,6.92
+TKT-0960,Billing,17.33
+TKT-0961,General Inquiry,5.55
+TKT-0962,Technical,19.3
+TKT-0963,Technical,29.83
+TKT-0964,Billing,16.91
+TKT-0965,Billing,13.9
+TKT-0966,General Inquiry,5.75
+TKT-0967,Technical,14.16
+TKT-0968,Technical,24.65
+TKT-0969,Product Issue,18.71
+TKT-0970,General Inquiry,3.52
+TKT-0971,Billing,12.13
+TKT-0972,General Inquiry,5.59
+TKT-0973,Account Access,12.64
+TKT-0974,Account Access,15.1
+TKT-0975,General Inquiry,4.86
+TKT-0976,Account Access,5.19
+TKT-0977,Account Access,9.68
+TKT-0978,Technical,22.25
+TKT-0979,Account Access,11.03
+TKT-0980,Product Issue,7.85
+TKT-0981,Product Issue,17.65
+TKT-0982,Billing,7.08
+TKT-0983,Product Issue,20.51
+TKT-0984,General Inquiry,6.19
+TKT-0985,General Inquiry,15.55
+TKT-0986,Technical,11.82
+TKT-0987,Account Access,3.84
+TKT-0988,Technical,35.92
+TKT-0989,General Inquiry,10.14
+TKT-0990,General Inquiry,2.99
+TKT-0991,Account Access,4.01
+TKT-0992,General Inquiry,5.73
+TKT-0993,Billing,11.21
+TKT-0994,Product Issue,19.03
+TKT-0995,Billing,11.71
+TKT-0996,Product Issue,11.64
+TKT-0997,Technical,17.19
+TKT-0998,Account Access,4.98
+TKT-0999,Technical,36.86
+TKT-1000,Billing,18.47
