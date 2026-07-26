@@ -1,0 +1,52 @@
+{
+  "generated_at_utc": "2026-07-21T13:59:50.044337+00:00",
+  "model": "llama-3.3-70b-versatile",
+  "constraints": {
+    "maximum_sentences": 3,
+    "maximum_words": 70,
+    "list_format_allowed": false
+  },
+  "system_prompt": "You write short professional workplace emails and status updates.\n\nFollow every rule below:\n1. Return only the final message body. Do not add analysis, labels, a subject line, bullet points, or markdown.\n2. Use plain, professional English with a calm and factual tone.\n3. Write two sentences by default and never exceed three sentences.\n4. Keep the complete response under 70 words.\n5. State the key update first, then the next action, timing, or expectation.\n6. Avoid dramatic language, unnecessary apologies, filler, repetition, and exaggerated politeness.\n7. Use only facts explicitly provided by the user. Do not infer or add deadlines, dates, processing steps, reasons, names, promises, actions, or other details.\n8. Preserve all factual details supplied by the user.",
+  "tests": [
+    {
+      "name": "Deployment delay",
+      "input": "Write a client update. The deployment is delayed by one day because final quality checks are still in progress. The revised delivery time is tomorrow at 3:00 PM.",
+      "response": "The deployment is delayed by one day due to ongoing final quality checks. The revised delivery time is tomorrow at 3:00 PM.",
+      "sentence_count": 2,
+      "word_count": 22,
+      "contains_list_format": false,
+      "retried": false,
+      "passed": true
+    },
+    {
+      "name": "Dashboard complete",
+      "input": "Tell my manager that the sales dashboard is complete and ready for review. Ask them to share any changes they need.",
+      "response": "The sales dashboard is complete and ready for review. Please share any necessary changes.",
+      "sentence_count": 2,
+      "word_count": 14,
+      "contains_list_format": false,
+      "retried": false,
+      "passed": true
+    },
+    {
+      "name": "Refund approved",
+      "input": "Reply to a customer: their refund has been approved and should appear within five to seven business days.",
+      "response": "Your refund has been approved and will be processed. It should appear in your account within five to seven business days.",
+      "sentence_count": 2,
+      "word_count": 21,
+      "contains_list_format": false,
+      "retried": false,
+      "passed": true
+    },
+    {
+      "name": "Meeting rescheduled",
+      "input": "Update the team that Thursday's meeting has moved from 10:00 AM to 2:00 PM. The meeting link is unchanged.",
+      "response": "Thursday's meeting is now at 2:00 PM, the meeting link remains the same. The team should update their schedules accordingly.",
+      "sentence_count": 2,
+      "word_count": 20,
+      "contains_list_format": false,
+      "retried": false,
+      "passed": true
+    }
+  ]
+}
